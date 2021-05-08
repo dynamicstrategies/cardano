@@ -1,0 +1,17 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/dynamicstrategies/cardano/raw/main/DSIO_logo_64x64.png",
+        "url_png_logo": "https://github.com/dynamicstrategies/cardano/raw/main/DSIO_logo_64x64.png",
+        "social": {
+            "twitter_handle": "dynamic_io",
+            "telegram_handle": "dstrategies",
+            "github_handle": "dynamicstrategies"
+        }
+    },
+    "my-pool-ids": {
+        "0": "6ae0fb9fc19ad1b82521d6e4b9f6e9bad4d150529673c95c5b5cf4e4"
+    },
+    "telegram-admin-handle": {
+        "0": "dstrategies"
+    }
+}
