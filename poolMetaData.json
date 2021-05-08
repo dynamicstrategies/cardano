@@ -1,6 +1,7 @@
 {
 "name": "Dynamic Strategies",
-"description": "Runs on Renewable Energy in the Netherlands with relays in Germany and Portugal. This is a Private Pool.",
+"description": "Runs on Renewable Energy in the Netherlands with relays in Germany and Portugal",
 "ticker": "DSIO",
-"homepage": "https://dynamicstrategies.io"
+"homepage": "https://dynamicstrategies.io",
+"extended": "https://github.com/dynamicstrategies/cardano/raw/main/extended_poolMetaData.json"
 }
