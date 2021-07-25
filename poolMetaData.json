@@ -1,7 +1,7 @@
 {
 "name": "Dynamic Strategies",
-"description": "Runs on Renewable Energy in the Netherlands with relays in Germany, Portugal and Angola (Africa)",
+"description": "Runs on Renewable Energy in the Netherlands with a relay in Germany",
 "ticker": "DSIO",
-"homepage": "https://dynamicstrategies.io",
+"homepage": "https://dynamicstrategies.github.io",
 "extended": "https://github.com/dynamicstrategies/cardano/raw/main/extended_poolMetaData.json"
 }
