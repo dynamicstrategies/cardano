@@ -1,7 +1,7 @@
 {
 "name": "Dynamic Strategies",
-"description": "Runs on Renewable Energy in the Netherlands with a relay in Germany",
+"description": "Sandbox for building DApps and a gateway into the Cardano Blockchain. The block producing node runs on renewable energy.",
 "ticker": "DSIO",
-"homepage": "https://dynamicstrategies.github.io",
+"homepage": "https://dynamicstrategies.io",
 "extended": "https://github.com/dynamicstrategies/cardano/raw/main/extended_poolMetaData.json"
 }
